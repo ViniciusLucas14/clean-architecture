@@ -10,7 +10,17 @@
       "ProjectGuid": "72869c31-9119-4f80-938f-c2bd7edc6ae3",
       "DisplayName": "CleanArchMVC.IoC",
       "ColorIndex": 0
+    },
+    "4551367e-875d-4e1f-8ccc-ea5e83b9efd6": {
+      "ProjectGuid": "4551367e-875d-4e1f-8ccc-ea5e83b9efd6",
+      "DisplayName": "CleanArchMVCDomain.Tests",
+      "ColorIndex": 1
+    },
+    "17211dce-70a4-43a6-b5fd-22477e8b6f33": {
+      "ProjectGuid": "17211dce-70a4-43a6-b5fd-22477e8b6f33",
+      "DisplayName": "CleanArchMVC.Domain",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
