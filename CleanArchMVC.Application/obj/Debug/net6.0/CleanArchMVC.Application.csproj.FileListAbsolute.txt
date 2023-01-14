@@ -10,3 +10,15 @@ C:\Users\Vinicius\Documents\Curso\clean-architecture\CleanArchMVC.Application\ob
 C:\Users\Vinicius\Documents\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.dll
 C:\Users\Vinicius\Documents\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\ref\CleanArchMVC.Application.dll
 C:\Users\Vinicius\Documents\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.pdb
+C:\Curso\clean-architecture\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.deps.json
+C:\Curso\clean-architecture\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.dll
+C:\Curso\clean-architecture\CleanArchMVC.Application\bin\Debug\net6.0\ref\CleanArchMVC.Application.dll
+C:\Curso\clean-architecture\CleanArchMVC.Application\bin\Debug\net6.0\CleanArchMVC.Application.pdb
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.AssemblyReference.cache
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.AssemblyInfoInputs.cache
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.AssemblyInfo.cs
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.csproj.CoreCompileInputs.cache
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.dll
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\ref\CleanArchMVC.Application.dll
+C:\Curso\clean-architecture\CleanArchMVC.Application\obj\Debug\net6.0\CleanArchMVC.Application.pdb

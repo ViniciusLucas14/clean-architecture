@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso\\clean-architecture\\CleanArchMVC.Controller\\CleanArchMVC.Controller.csproj": {}
+    "C:\\Curso\\clean-architecture\\CleanArchMvc.Controller\\CleanArchMVC.Controller.csproj": {}
   },
   "projects": {
     "C:\\Curso\\clean-architecture\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj": {
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Curso\\clean-architecture\\CleanArchMVC.Controller\\CleanArchMVC.Controller.csproj": {
+    "C:\\Curso\\clean-architecture\\CleanArchMvc.Controller\\CleanArchMVC.Controller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso\\clean-architecture\\CleanArchMVC.Controller\\CleanArchMVC.Controller.csproj",
+        "projectUniqueName": "C:\\Curso\\clean-architecture\\CleanArchMvc.Controller\\CleanArchMVC.Controller.csproj",
         "projectName": "CleanArchMVC.Controller",
-        "projectPath": "C:\\Curso\\clean-architecture\\CleanArchMVC.Controller\\CleanArchMVC.Controller.csproj",
+        "projectPath": "C:\\Curso\\clean-architecture\\CleanArchMvc.Controller\\CleanArchMVC.Controller.csproj",
         "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso\\clean-architecture\\CleanArchMVC.Controller\\obj\\",
+        "outputPath": "C:\\Curso\\clean-architecture\\CleanArchMvc.Controller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -163,7 +163,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Curso\\clean-architecture\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj": {
+                "projectPath": "C:\\Curso\\clean-architecture\\CleanArchMVC.Domain\\CleanArchMVC.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -175,6 +179,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -303,6 +325,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

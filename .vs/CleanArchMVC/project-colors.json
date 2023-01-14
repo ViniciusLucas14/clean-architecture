@@ -20,7 +20,12 @@
       "ProjectGuid": "17211dce-70a4-43a6-b5fd-22477e8b6f33",
       "DisplayName": "CleanArchMVC.Domain",
       "ColorIndex": 2
+    },
+    "5627e14c-21d2-454f-87de-4df5cb85c493": {
+      "ProjectGuid": "5627e14c-21d2-454f-87de-4df5cb85c493",
+      "DisplayName": "CleanArchMVC.Data",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

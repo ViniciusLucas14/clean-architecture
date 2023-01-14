@@ -17,3 +17,5 @@ C:\Curso\clean-architecture\CleanArchMVC.IoC\obj\Debug\net6.0\CleanArchMVC.IoC.c
 C:\Curso\clean-architecture\CleanArchMVC.IoC\obj\Debug\net6.0\CleanArchMVC.IoC.dll
 C:\Curso\clean-architecture\CleanArchMVC.IoC\obj\Debug\net6.0\ref\CleanArchMVC.IoC.dll
 C:\Curso\clean-architecture\CleanArchMVC.IoC\obj\Debug\net6.0\CleanArchMVC.IoC.pdb
+C:\Curso\clean-architecture\CleanArchMVC.IoC\bin\Debug\net6.0\CleanArchMVC.IoC.runtimeconfig.json
+C:\Curso\clean-architecture\CleanArchMVC.IoC\obj\Debug\net6.0\CleanArchMVC.IoC.genruntimeconfig.cache
