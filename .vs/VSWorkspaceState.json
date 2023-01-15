@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CleanArchMVC.Controller",
-    "\\CleanArchMVC.Domain"
+    "\\CleanArchMVC.Controllers",
+    "\\CleanArchMVC.Controllers\\Controllers"
   ],
-  "SelectedNode": "\\CleanArchMVC.Controller\\CleanArchMVC.Controller.csproj",
+  "SelectedNode": "\\CleanArchMVC.Application",
   "PreviewInSolutionExplorer": false
 }

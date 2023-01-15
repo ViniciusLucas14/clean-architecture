@@ -25,7 +25,17 @@
       "ProjectGuid": "5627e14c-21d2-454f-87de-4df5cb85c493",
       "DisplayName": "CleanArchMVC.Data",
       "ColorIndex": 3
+    },
+    "a60dbb50-e2f3-46c8-8bde-19352c063607": {
+      "ProjectGuid": "a60dbb50-e2f3-46c8-8bde-19352c063607",
+      "DisplayName": "CleanArchMVC.Controller",
+      "ColorIndex": 4
+    },
+    "b2bc3c30-d000-4e67-bee8-ae5990f30a11": {
+      "ProjectGuid": "b2bc3c30-d000-4e67-bee8-ae5990f30a11",
+      "DisplayName": "CleanArchMVC.Controllers",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 6
 }
