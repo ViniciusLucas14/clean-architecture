@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EE2PjyIxgscMkmwgN/c0XIqvD5MQlNTKmU53A6XJNMw0ltz86EmV0E9NcmY6z6oxRzeYcCAO60zby1KKwjodHw==",
+  "dgSpecHash": "3yduPgLZt60EG+KJg6cDzPLUtafORCC6Odqe/JotRLgPc/27qNVK7unjYVNYBddGTFwb2NCjh+Yr3vJnQXC3Xw==",
   "success": true,
-  "projectFilePath": "C:\\Curso\\clean-architecture\\CleanArchMvc.Controllers\\CleanArchMVC.Controllers.csproj",
+  "projectFilePath": "C:\\Curso\\clean-architecture\\CleanArchMVC.Controllers\\CleanArchMVC.Controllers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicius\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
@@ -115,7 +115,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "CleanArchMVC.Data depende de Microsoft.AspNetCore.Identity.EntityFrameworkCore (>= 5.5.0), mas Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.5.0 não foi encontrado. A melhor correspondência aproximada de Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.0 foi resolvida.",
+      "message": "CleanArchMVC.Data depends on Microsoft.AspNetCore.Identity.EntityFrameworkCore (>= 5.5.0) but Microsoft.AspNetCore.Identity.EntityFrameworkCore 5.5.0 was not found. An approximate best match of Microsoft.AspNetCore.Identity.EntityFrameworkCore 6.0.0 was resolved.",
       "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
       "targetGraphs": [
         "net6.0"

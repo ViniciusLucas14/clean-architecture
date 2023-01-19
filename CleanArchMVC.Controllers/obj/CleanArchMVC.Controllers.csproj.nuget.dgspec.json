@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso\\clean-architecture\\CleanArchMvc.Controllers\\CleanArchMVC.Controllers.csproj": {}
+    "C:\\Curso\\clean-architecture\\CleanArchMVC.Controllers\\CleanArchMVC.Controllers.csproj": {}
   },
   "projects": {
     "C:\\Curso\\clean-architecture\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj": {
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Curso\\clean-architecture\\CleanArchMvc.Controllers\\CleanArchMVC.Controllers.csproj": {
+    "C:\\Curso\\clean-architecture\\CleanArchMVC.Controllers\\CleanArchMVC.Controllers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso\\clean-architecture\\CleanArchMvc.Controllers\\CleanArchMVC.Controllers.csproj",
+        "projectUniqueName": "C:\\Curso\\clean-architecture\\CleanArchMVC.Controllers\\CleanArchMVC.Controllers.csproj",
         "projectName": "CleanArchMVC.Controllers",
-        "projectPath": "C:\\Curso\\clean-architecture\\CleanArchMvc.Controllers\\CleanArchMVC.Controllers.csproj",
+        "projectPath": "C:\\Curso\\clean-architecture\\CleanArchMVC.Controllers\\CleanArchMVC.Controllers.csproj",
         "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso\\clean-architecture\\CleanArchMvc.Controllers\\obj\\",
+        "outputPath": "C:\\Curso\\clean-architecture\\CleanArchMVC.Controllers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -106,6 +106,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Curso\\clean-architecture\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj": {
+                "projectPath": "C:\\Curso\\clean-architecture\\CleanArchMVC.Application\\CleanArchMVC.Application.csproj"
+              },
               "C:\\Curso\\clean-architecture\\CleanArchMVC.IoC\\CleanArchMVC.IoC.csproj": {
                 "projectPath": "C:\\Curso\\clean-architecture\\CleanArchMVC.IoC\\CleanArchMVC.IoC.csproj"
               }

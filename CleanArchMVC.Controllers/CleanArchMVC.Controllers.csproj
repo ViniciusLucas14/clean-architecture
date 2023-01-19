@@ -12,6 +12,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\CleanArchMVC.Application\CleanArchMVC.Application.csproj" />
 		<ProjectReference Include="..\CleanArchMVC.IoC\CleanArchMVC.IoC.csproj" />
 	</ItemGroup>
 
